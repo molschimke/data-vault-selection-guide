@@ -1,9 +1,3 @@
----
-title: "Data Vault Automation Tools: A Practical Selection Guide"
-description: "Compare Data Vault automation software, dbt packages, modeling tools, and generators. Build a shortlist around your platform, team, and delivery needs."
-slug: "data-vault-automation-tools-selection-guide"
----
-
 # How to Choose Data Vault Automation Tools
 
 Choosing Data Vault software starts with identifying the work your team needs to automate. Discovering business keys, generating satellite loads, deploying schema changes, and recovering a failed pipeline are different jobs. A product that solves one may leave the others to your engineers.
